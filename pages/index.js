@@ -52,7 +52,7 @@ const Home = () => (
             maxWidth="100px"
             display="inline-block"
             borderRadius="full"
-            src="/images/viacheslav.jpg"
+            src="/next-portfolio/images/viacheslav.jpg"
             alt="Profile image"
           />
         </Box>
@@ -124,7 +124,7 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>Dec 2018 - present</BioYear>
-          Software Engineer at Brightgrove!
+          Software Engineer at Brightgrove
         </BioSection>
         <BioSection>
           <BioYear>Jun 2018 - Dec 2018</BioYear>
